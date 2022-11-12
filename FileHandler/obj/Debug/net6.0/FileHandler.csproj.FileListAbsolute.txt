@@ -1,0 +1,15 @@
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\FileHandler.csproj.AssemblyReference.cache
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\FileHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\FileHandler.AssemblyInfoInputs.cache
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\FileHandler.AssemblyInfo.cs
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\FileHandler.csproj.CoreCompileInputs.cache
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\bin\Debug\net6.0\FileHandler.exe
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\bin\Debug\net6.0\FileHandler.deps.json
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\bin\Debug\net6.0\FileHandler.runtimeconfig.json
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\bin\Debug\net6.0\FileHandler.dll
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\bin\Debug\net6.0\FileHandler.pdb
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\FileHandler.dll
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\refint\FileHandler.dll
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\FileHandler.pdb
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\FileHandler.genruntimeconfig.cache
+C:\Users\sutte\Documents\Github\CSharp\FileHandler\obj\Debug\net6.0\ref\FileHandler.dll
